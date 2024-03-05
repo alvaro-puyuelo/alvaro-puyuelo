@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 👋, I'm [Álvaro](https://github.com/alvaro-puyuelo)
 
 ### A passionate Next.js developper 
